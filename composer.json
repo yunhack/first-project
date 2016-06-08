@@ -1,0 +1,14 @@
+{
+    "name": "yunhack/first-project",
+    "description": "This is my first project about how to edit the file 'composer.json'",
+    "keywords": ["yunhack", "first-project", "for-study"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "php": ">=5.4.0",
+        "yunhack/helloworld": "1.0.*"
+    },
+    "autoload": {
+        "psr-4": ""
+    }
+}
